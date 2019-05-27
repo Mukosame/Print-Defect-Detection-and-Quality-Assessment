@@ -1,6 +1,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-# Print-Defect-Detection-and-Quality-Assessment
+# Print Defect Detection and Quality Assessment
 A collection of print defect detection and quality assessment papers with code (constantly updating, welcome to contribute!)
 
 By Xiaoyu Xiang, EISL, Purdue University (Don't hesistate to contact me if you have any suggestions: xiang43@purdue.edu).
