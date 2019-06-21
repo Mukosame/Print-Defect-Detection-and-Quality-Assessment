@@ -18,6 +18,8 @@ By Xiaoyu Xiang, EISL, Purdue University (Don't hesistate to contact me if you h
 
 - Jianyu Wang, Terry Nelson, Renee Jessome, Steve Astling, Eric Maggard, Mark Shaw, Jan P Allebach, Local defect detection and print quality assessment, Electronic Imaging, 2016, [[Paper]](https://www.ingentaconnect.com/contentone/ist/ei/2016/00002016/00000013/art00011?crawler=true&mimetype=application/pdf)
 
+- Xiaoyu Xiang, Renee Jessome, Eric Maggard, Yousun Bang, Minki Cho, Jan Allebach, Blockwise Based Detection of Local Defects, Electronic Imaging, 2019, [[Paper]](https://arxiv.org/abs/1906.02374)
+
 ### Streaks
 
 - Wencheng Wu, R. Victor Klassen, Banding and streak detection using customer documents, [[US Patent]](https://patents.google.com/patent/US7783122B2/en)
